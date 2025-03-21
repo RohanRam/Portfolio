@@ -10,6 +10,7 @@ import Education from './Education';
 import Projects from './Projects';
 import Tech from './Tech';
 import ContactForm from './ContactForm';
+import Certificate from './Certificate';
 import { Toaster, toast } from 'sonner';
 
 function Landing() {
@@ -104,7 +105,7 @@ function Landing() {
 
                 {/* Scrollable Right Section */}
                 <div className="col-7 scrollable-content">
-                    {[About, Exp, Tech, Skill, Projects, Education].map((Component, index) => (
+                    {[About, Exp, Tech, Skill, Projects, Education, Certificate].map((Component, index) => (
                         <motion.div
                             key={index}
                             initial="hidden"
