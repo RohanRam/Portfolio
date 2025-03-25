@@ -51,6 +51,9 @@
 //                     <SwiperSlide>
 //                         <img src={thumb.profair} alt="slide_image" />
 //                     </SwiperSlide>
+                       <SwiperSlide>
+//                         <img src={thumb.ecart} alt="slide_image" />
+//                     </SwiperSlide>
 //                     <SwiperSlide>
 //                         <img src={thumb.travel} alt="slide_image" />
 //                     </SwiperSlide>
