@@ -15,7 +15,7 @@ function Education() {
                         <h3>JAIN (Deemed-to-be University) </h3>
                         <p>Postgraduate in MCA</p>
                     </div>
-                    <div className="exp-date"> July 2025 - Present </div>
+                    <div className="exp-date"> Aug 2025 - Present </div>
                 </div>
 
                 <div className="exp-card mt-4" >

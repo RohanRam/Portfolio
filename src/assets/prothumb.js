@@ -4,6 +4,7 @@ import login from './login.png'
 import ecart from './ecart.png'
 import lady from './lady.png'
 import travel from './travel.png'
+import iphone from './3d.png'
 
 export const thumb = {
 
@@ -12,7 +13,8 @@ imagify,
 login,
 ecart,
 lady,
-travel
+travel,
+iphone
 
 
 }

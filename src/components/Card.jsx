@@ -35,12 +35,13 @@ function Card() {
                 modules={[EffectCoverflow, Pagination]}
                 className="swiper_container"
             >
-                <SwiperSlide className='sws'><a target="_blank" href="https://e-cart-seven-mu.vercel.app/"><img src={thumb.ecart} alt="slide_image" /></a></SwiperSlide>
+                {/* <SwiperSlide className='sws'><a target="_blank" href="https://e-cart-seven-mu.vercel.app/"><img src={thumb.ecart} alt="slide_image" /></a></SwiperSlide> */}
                 <SwiperSlide className='sws'><a target="_blank" href="https://imagify-front-end.vercel.app/"><img src={thumb.imagify} alt="slide_image" /></a></SwiperSlide>
                 <SwiperSlide className='sws'><a target="_blank" href="https://ladyloafella.netlify.app/"><img src={thumb.lady} alt="slide_image" /></a></SwiperSlide>
                 <SwiperSlide className='sws'><a target="_blank" href="https://login-page-gamma-lime.vercel.app/"><img src={thumb.login} alt="slide_image" /></a></SwiperSlide>
                 <SwiperSlide className='sws'><a target="_blank" href="https://project-fair-lac-three.vercel.app/"><img src={thumb.profair} alt="slide_image" /></a></SwiperSlide>
                 <SwiperSlide className='sws'><a target="_blank" href="https://rohanram.github.io/Quest_Travels/"><img src={thumb.travel} alt="slide_image" /></a></SwiperSlide>
+                <SwiperSlide className='sws'><a target="_blank" href="https://web-gl-i-phone.vercel.app/"><img src={thumb.iphone} alt="slide_image" /></a></SwiperSlide>
 
 
 

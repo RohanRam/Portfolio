@@ -17,7 +17,7 @@ function Exp() {
                             <h3>Luminar TechnoLab</h3>
                             <p>MEARN Stack Intern</p>
                         </div>
-                        <div className="exp-date"> July 2024 - Present </div>
+                        <div className="exp-date"> July 2024 - Mar 2025 </div>
                     </div>
 
 
