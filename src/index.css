@@ -437,6 +437,18 @@
         margin-right: 12px;
     }
 
+        .cer-icon4 {
+        width: 40px;
+        height: 40px;
+        /* background: hsl(212, 17%, 100%); */
+        background: #002754;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 12px;
+    }
+
     .cer-icon img {
         width: 24px;
         height: 24px;
@@ -446,11 +458,16 @@
         width: 24px;
         aspect-ratio: 1/1;
     }
+
      .cer-icon3 img {
         width: 24px;
         aspect-ratio: 1/1;
     }
 
+    .cer-icon4 img {
+        width: 24px;
+        aspect-ratio: 1/1;
+    }
     /* Responsive Design */
     @media (max-width: 1024px) {
         .pcc {

@@ -2,12 +2,26 @@ import React from 'react'
 import hack from '../assets/hackerrank.png'
 import micro from '../assets/microsoft.png'
 import nactet from '../assets/nactet.webp'
+import illi from '../assets/favicon.ico'
+
 
 function Certificate() {
     return (
         <>
             <div className="education-section mt-4">
                 <h3>Cerificates</h3>
+
+                <div className="exp-card mt-4" >
+                    <div className="cer-icon4">
+                        <img src={illi} className="exp-logo" />
+                    </div>
+                    <div className="exp-content">
+                        <h3>Ordered Data Structures</h3>
+                        <p>University of Illinois</p>
+                    </div>
+                    <div className="exp-date">Sep 2025 </div>
+                </div>
+
                 <div className="exp-card mt-4" >
                     <div className="cer-icon3">
                         <img src={nactet} className="exp-logo" />
@@ -28,6 +42,8 @@ function Certificate() {
                     </div>
                     <div className="exp-date"> Feb 2025  </div>
                 </div>
+
+                
 
                 <div className="exp-card mt-4" >
                     <div className="cer-icon2">
