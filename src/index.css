@@ -247,6 +247,14 @@
         font-family: Arial, sans-serif;
     }
 
+    .exp-card:hover {
+    background: #f7f7f7;
+    border-color: #e0e0e0;
+
+}
+
+    
+
     .exp-icon {
         width: 40px;
         height: 40px;

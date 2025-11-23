@@ -68,7 +68,7 @@ function Landing() {
 
                         <motion.div className="contact-info mb-4" variants={staggerItem}>
                             <a href="https://www.google.com/maps/@11.8667766,75.3495785,14z?entry=ttu" target="_blank" rel="noopener noreferrer" variants={staggerItem}>
-                                <span className="contact-info"><i className='bx bxs-map me-2'></i>Kerala, India</span>
+                                <span className="contact-info"><i className='bx bxs-map me-2'></i>Kerala |<a target="_blank" href="https://www.google.com/maps/place/Bengaluru,+Karnataka/@12.9539456,77.4661272,11z/data=!3m1!4b1!4m6!3m5!1s0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0!8m2!3d12.9628669!4d77.577509!16zL20vMDljMTc?entry=ttu&g_ep=EgoyMDI1MTExNy4wIKXMDSoASAFQAw%3D%3D"> Bengaluru</a></span>
                             </a>
                             <p>
                                 <a href="https://github.com/rohanram" target="_blank" rel="noopener noreferrer">
