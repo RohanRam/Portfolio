@@ -150,7 +150,7 @@ function Certificate() {
                                     style={{ background: cert.color }}
                                 />
                             </div>
-                            {index < displayed.length - 1 && (
+                            {index < displayed.length - 0 && (
                                 <div className="timeline-line" />
                             )}
                         </div>
