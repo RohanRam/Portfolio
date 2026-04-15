@@ -5,6 +5,7 @@ import ecart from './ecart.png'
 import lady from './lady.png'
 import travel from './travel.png'
 import iphone from './3d.png'
+import res from './resume.png'
 
 export const thumb = {
 
@@ -14,7 +15,8 @@ login,
 ecart,
 lady,
 travel,
-iphone
+iphone,
+res
 
 
 }
