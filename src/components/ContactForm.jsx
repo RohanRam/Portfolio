@@ -136,7 +136,7 @@ const ContactForm = () => {
 
     return (
         <div className="contact-section mb-5">
-            <Toaster position="top-right" />
+            {/* <Toaster position="top-right" /> */}
 
             <h3 className="section-title mb-3">Contact</h3>
 
