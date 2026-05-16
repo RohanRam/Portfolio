@@ -39,7 +39,7 @@ function Card() {
                 <SwiperSlide className='sws'><a target="_blank" href="https://imagify-front-end.vercel.app/"><img src={thumb.imagify} alt="slide_image" /></a></SwiperSlide>
                 <SwiperSlide className='sws'><a target="_blank" href="https://ladyloafella.netlify.app/"><img src={thumb.lady} alt="slide_image" /></a></SwiperSlide>
                 
-                <SwiperSlide className='sws'><a target="_blank" href="https://resumeanalyzer-rohan.vercel.app/"><img src={thumb.res} alt="slide_image" /></a></SwiperSlide>
+                <SwiperSlide className='sws'><a target="_blank" href="https://ai-resume-analyzer-blond-nine.vercel.app/"><img src={thumb.res} alt="slide_image" /></a></SwiperSlide>
 
                 <SwiperSlide className='sws'><a target="_blank" href="https://login-page-gamma-lime.vercel.app/"><img src={thumb.login} alt="slide_image" /></a></SwiperSlide>
                 <SwiperSlide className='sws'><a target="_blank" href="https://project-fair-lac-three.vercel.app/"><img src={thumb.profair} alt="slide_image" /></a></SwiperSlide>
