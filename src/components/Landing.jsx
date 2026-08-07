@@ -91,7 +91,7 @@ function Landing() {
                         </motion.div>
 
                         {/* Download CV button */}
-                        <motion.a href="/ROHAN_profile.pdf" download="ROHAN_CV.pdf" variants={staggerItem}>
+                        <motion.a href="/RohanCV.pdf" download="ROHAN_CV.pdf" variants={staggerItem}>
                             <button className="download-btn">Download CV</button>
                         </motion.a>
 

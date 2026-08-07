@@ -277,8 +277,20 @@
         margin-right: 12px;
     }
 
+       .exp-icon3 {
+        width: 40px;
+        height: 40px;
+        background: #ffeed8;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 12px;
+    }
+
     .exp-icon img,
-    .exp-icon2 img {
+    .exp-icon2 img,
+    .exp-icon3 img {
         width: 24px;
         height: 24px;
     }

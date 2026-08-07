@@ -7,6 +7,7 @@ import travel from './travel.png'
 import iphone from './3d.png'
 import res from './resume.png'
 
+
 export const thumb = {
 
 profair,
@@ -16,7 +17,7 @@ ecart,
 lady,
 travel,
 iphone,
-res
+res,
 
 
 }

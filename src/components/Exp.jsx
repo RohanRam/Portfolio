@@ -1,6 +1,7 @@
 import React from 'react'
 import xtg from '../assets/xtg3.png'
 import lum from '../assets/luminar.png'
+import amd from '../assets/AmdoxLogo.png'
 
 function Exp() {
     return (
@@ -8,6 +9,17 @@ function Exp() {
             <div className="experience-section">
                 <h3>Experience</h3>
                 <div className="experience">
+
+                    <div className="exp-card mt-4" >
+                        <div className="exp-icon3">
+                            <img src={amd} className="exp-logo" />
+                        </div>
+                        <div className="exp-content">
+                            <h3>Amdox Technologies</h3>
+                            <p>Web Developer Intern</p>
+                        </div>
+                        <div className="exp-date"> June 2026 - Aug 2026 </div>
+                    </div>
 
                     <div className="exp-card mt-4" >
                         <div className="exp-icon">

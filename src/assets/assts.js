@@ -21,6 +21,7 @@ import pyt from './Python.svg'
 import react from './react.svg'
 import redux from './Redux.svg'
 import vercel from './Vercel.svg'
+import amd from './AmdoxLogo.png'
 
 
 export const assts ={
@@ -47,6 +48,7 @@ export const assts ={
     pyt,
     react,
     redux,
-    vercel
+    vercel,
+    amd,
 
 }
